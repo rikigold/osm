@@ -1,0 +1,12 @@
+{
+  "name": "Maale_Hahmisha",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "18",
+  "scale": "1.000000",
+  "bounds": [35.10515445, 31.81280558, 35.12069295, 31.82180660],
+  "profile": "mercator"
+}
