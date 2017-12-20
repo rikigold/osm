@@ -1,0 +1,12 @@
+{
+  "name": "Ein_Rafa",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "13",
+  "maxzoom": "17",
+  "scale": "1.000000",
+  "bounds": [35.10493727, 31.78404539, 35.13357280, 31.80062879],
+  "profile": "mercator"
+}
