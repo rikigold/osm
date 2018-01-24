@@ -1,0 +1,12 @@
+{
+  "name": "teston",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "19",
+  "scale": "1.000000",
+  "bounds": [35.09137883, 31.79990298, 35.10812112, 31.80889867],
+  "profile": "mercator"
+}
